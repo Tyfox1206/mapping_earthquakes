@@ -5,3 +5,8 @@ The purpose of this challenge and module was to create a map that shows earthqua
 
 ## Result 
 created a map shows the tectonic plates, recent earthquakes and, major earthquakes. As shown below.
+![Default View][(http://url/to/img.png)](https://github.com/Tyfox1206/mapping_earthquakes/blob/main/Images/Default_view.PNG)
+
+![Satellite View][(http://url/to/img.png)](https://github.com/Tyfox1206/mapping_earthquakes/blob/main/Images/Sat_view.PNG)
+
+![Dark Mode][(http://url/to/img.png)](https://github.com/Tyfox1206/mapping_earthquakes/blob/main/Images/dark_view.PNG)
